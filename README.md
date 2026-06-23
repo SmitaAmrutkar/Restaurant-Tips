@@ -1,48 +1,47 @@
-🍽️ Restaurant Tips Dashboard
-📌 Project Overview
+# 🍽️ Restaurant Tips Dashboard
 
-The Restaurant Tips Dashboard is an interactive Power BI project designed to analyze customer tipping behavior and restaurant performance. It provides valuable insights into tips, bill amounts, customer demographics, and dining patterns through dynamic visualizations and KPIs.
+## 📖 Overview
+This Power BI dashboard analyzes restaurant tipping behavior and customer spending patterns. It provides interactive visualizations and key performance indicators (KPIs) to help understand factors that influence tips and overall restaurant performance.
 
-🎯 Objectives
-Analyze restaurant tipping trends.
-Understand customer spending behavior.
-Compare tipping patterns across different customer groups.
-Identify peak dining periods and revenue opportunities.
-Support data-driven decision-making through interactive dashboards.
-🛠️ Tools & Technologies
-Power BI
-Power Query
-DAX (Data Analysis Expressions)
-Data Modeling
-Data Visualization
-📊 Dashboard Features
-Total Tips Analysis
-Total Bill Analysis
-Average Tip per Customer
-Tip Distribution by Gender
-Tip Analysis by Day of the Week
-Lunch vs Dinner Comparison
-Customer Demographics Insights
-Interactive Filters and Slicers
-KPI Cards and Visual Reports
-📈 Key Insights
-Identifies days with the highest tipping activity.
-Highlights differences in tipping behavior among customer groups.
-Tracks average spending and tip percentages.
-Provides a clear overview of restaurant performance metrics.
-📂 Dataset
+## 🎯 Project Objectives
+- Analyze customer tipping trends.
+- Compare tips across different days and dining times.
+- Identify spending patterns and customer behavior.
+- Create an interactive dashboard for data-driven insights.
 
-The dataset contains restaurant transaction records, including:
+## 🛠️ Tools Used
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
 
-Total Bill Amount
-Tip Amount
-Gender
-Smoking Status
-Day
-Time (Lunch/Dinner)
-Party Size
-🚀 How to Use
-Download the .pbix file from this repository.
-Open it in Power BI Desktop.
-Explore the dashboard using filters and slicers.
-Analyze insights and trends from the visualizations.
+## 📊 Dashboard Features
+- Total Tips Analysis
+- Total Bill Analysis
+- Average Tip Calculation
+- Tips by Gender
+- Tips by Day
+- Lunch vs Dinner Comparison
+- Interactive Filters and Slicers
+- KPI Cards
+
+## 📈 Key Insights
+- Identified peak tipping days.
+- Analyzed customer spending habits.
+- Compared tipping behavior across different customer groups.
+- Visualized restaurant performance metrics.
+
+## 📂 Files Included
+- `Restaurant Tips Dashboard.pbix` – Power BI dashboard file
+- `README.md` – Project documentation
+
+## 🚀 How to Use
+1. Download the `.pbix` file.
+2. Open it using Power BI Desktop.
+3. Explore the dashboard using the available filters and visuals.
+
+## 👩‍💻 Author
+Smita A
+Smita
+
+Aspiring Data Analyst passionate about transforming data into actionable insights using Power BI, SQL, Python, and Excel.
