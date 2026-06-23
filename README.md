@@ -41,7 +41,7 @@ This Power BI dashboard analyzes restaurant tipping behavior and customer spendi
 3. Explore the dashboard using the available filters and visuals.
 
 ## 👩‍💻 Author
-Smita A
+
 Smita
 
 Aspiring Data Analyst passionate about transforming data into actionable insights using Power BI, SQL, Python, and Excel.
